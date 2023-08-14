@@ -1,6 +1,2 @@
 # AI Project
-We gots men.
-
-Ye boiiii
-
-More men
+Adood (the cleaning robot for all)
